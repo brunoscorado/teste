@@ -3,6 +3,6 @@
 <title>Hello Maguininho</title> 
 </head> 
 <body> 
-<?php echo $word ; ?> 
+<?php PROJETO OPENSHIFT DATASUS ?> 
 </body> 
 </html>
