@@ -1,6 +1,6 @@
 <html> 
 <head> 
-<title>Hello World</title> 
+<title>Hello Maguininho</title> 
 </head> 
 <body> 
 <?php echo $word ; ?> 
