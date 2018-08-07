@@ -1,8 +1,18 @@
-<html> 
-<head> 
-<title>Hello Maguininho</title> 
-</head> 
-<body> 
-<?php PROJETO OPENSHIFT DATASUS ?> 
-</body> 
-</html>
+<HTML>
+
+
+<HEAD>
+
+    <TITLE> Pagina inicial teste OpenShift </TITLE>
+
+</HEAD>
+
+
+<BODY>
+
+  Teste Pipeline! ! !
+
+</BODY>
+
+
+</HTML>
